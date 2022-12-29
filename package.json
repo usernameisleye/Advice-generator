@@ -1,0 +1,23 @@
+{
+  "name": "advice-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "tailwindcss -i ./src/src.css -o ./public/styles.css --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/usernameisleye/Advice-generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/usernameisleye/Advice-generator/issues"
+  },
+  "homepage": "https://github.com/usernameisleye/Advice-generator#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.2.4"
+  }
+}
